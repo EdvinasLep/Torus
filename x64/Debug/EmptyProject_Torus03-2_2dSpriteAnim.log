@@ -1,0 +1,28 @@
+﻿  TorusUtil.cpp
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\ConsoleTorus\TorusUtil.cpp(66,80): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\ConsoleTorus\TorusUtil.cpp(66,48): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  KDXInput.cpp
+  KTorusAnimation.cpp
+  KInput.cpp
+  KLane.cpp
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\ConsoleTorus\KLane.cpp(42,52): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\ConsoleTorus\KLane.cpp(42,39): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\ConsoleTorus\KLane.cpp(81,74): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\ConsoleTorus\KLane.cpp(81,54): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+  KQueue.cpp
+  KScene.cpp
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\ConsoleTorus\KScene.cpp(129,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  KStack.cpp
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\ConsoleTorus\KStack.cpp(60,73): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\ConsoleTorus\KStack.cpp(60,45): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  KTime.cpp
+  KVector2.cpp
+  TorusDefines.cpp
+  EmptyProject.cpp
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\EmptyProject.cpp(80,17): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\EmptyProject.cpp(104,33): warning C4244: '*=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\EmptyProject.cpp(105,33): warning C4244: '*=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\EmptyProject.cpp(124,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\EmptyProject.cpp(329,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  EmptyProject_Torus03-2_2dSpriteAnim.vcxproj -> C:\Users\Edvinasas\Desktop\Year4\Portfolio(DIrectX\directx-sdk-legacy-samples-main\Direct3D\Torus\x64\Debug\EmptyProject.exe
